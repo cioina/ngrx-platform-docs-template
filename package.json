@@ -1,0 +1,28 @@
+{
+    "name": "ng-zorro-antd-openshift",
+    "version": "0.0.1",
+    "description": "An enterprise-class UI components based on Ant Design and Angular",
+    "main": "server.js",
+    "dependencies": {
+        "ejs": "^2.4.1",
+        "express": "^4.13.4",
+        "object-assign": "4.1.1"
+    },
+    "engine": {
+        "node": "*",
+        "npm": "*"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NG-ZORRO/ng-zorro-antd"
+    },
+    "author": "https://github.com/vthinkxie",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NG-ZORRO/ng-zorro-antd/issues"
+    },
+    "homepage": "https://ng.ant.design/docs/introduce/en"
+}
