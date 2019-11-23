@@ -479,18 +479,18 @@
       "includePrerelease": false
     },
     "loose": false,
-    "raw": "0.0.0",
+    "raw": "0.0.1",
     "major": 0,
     "minor": 0,
-    "patch": 1,
+    "patch": 2,
     "prerelease": [
       "local"
     ],
     "build": "sha.",
-    "version": "0.0.1-local",
+    "version": "0.0.2-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "0.0.1-local+sha.",
+    "full": "0.0.2-local+sha.",
     "branch": "master",
     "commitSHA": ""
   }
