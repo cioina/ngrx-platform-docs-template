@@ -21,10 +21,6 @@
       "title": "Events"
     },
     {
-      "url": "https://github.com/ngrx/platform",
-      "title": "GitHub"
-    },
-    {
       "url": "https://opencollective.com/ngrx",
       "title": "Sponsor"
     }
@@ -148,6 +144,15 @@
         {
           "title": "Instrumentation",
           "url": "guide/store-devtools/config"
+        },
+        {
+          "title": "Recipes",
+          "children": [
+            {
+              "title": "Exclude from Production",
+              "url": "guide/store-devtools/recipes/exclude"
+            }
+          ]
         }
       ]
     },
@@ -311,6 +316,15 @@
       ]
     },
     {
+      "title": "@ngrx/component",
+      "children": [
+        {
+          "title": "Overview",
+          "url": "guide/component"
+        }
+      ]
+    },
+    {
       "title": "@ngrx/schematics",
       "children": [
         {
@@ -411,6 +425,11 @@
           "url": "https://blog.ngrx.io",
           "title": "Blog",
           "tooltip": "NgRx Blog"
+        },
+        {
+          "url": "presskit",
+          "title": "Press Kit",
+          "tooltip": "Press Kit"
         }
       ]
     },
@@ -456,6 +475,10 @@
     }
   ],
   "docVersions": [
+    {
+      "title": "v8",
+      "url": "https://v8.ngrx.io"
+    },
     {
       "title": "v7",
       "url": "https://v7.ngrx.io"
