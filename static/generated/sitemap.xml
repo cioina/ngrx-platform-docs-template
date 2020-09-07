@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ngrx.io/guide/component-store/comparison</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component-store/effect</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component-store</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component-store/initialization</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component-store/install</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component-store/read</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component-store/write</loc>
+  </url>
+  <url>
     <loc>https://ngrx.io/guide/component</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/component/install</loc>
   </url>
   <url>
     <loc>https://ngrx.io/guide/component/let</loc>
@@ -91,6 +115,9 @@
     <loc>https://ngrx.io/guide/entity/recipes/additional-state-properties</loc>
   </url>
   <url>
+    <loc>https://ngrx.io/guide/migration/v10</loc>
+  </url>
+  <url>
     <loc>https://ngrx.io/guide/migration/v4</loc>
   </url>
   <url>
@@ -98,6 +125,9 @@
   </url>
   <url>
     <loc>https://ngrx.io/guide/migration/v8</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/migration/v9</loc>
   </url>
   <url>
     <loc>https://ngrx.io/guide/nightlies</loc>
@@ -194,6 +224,9 @@
   </url>
   <url>
     <loc>https://ngrx.io/guide/store/testing</loc>
+  </url>
+  <url>
+    <loc>https://ngrx.io/guide/store/why</loc>
   </url>
   <url>
     <loc>https://ngrx.io/guide/style-guide</loc>
